@@ -2,7 +2,7 @@
 
 **New System - Soulstealing**
 
-  *You now have a choice between butcher/bury and soulstealing defeated creatures.
+  -You now have a choice between butcher/bury and soulstealing defeated creatures.
   Soulstealing works by using a sacrificial knife on a corpse and selecting "Soulsteal" - this will perform an action much like butchering.
   After the soulsteal, the corpse is removed completely, meaning no need to bury. Butchered corpses cannot have their souls stolen.
   If successful, the soulsteal will give you the soul of the creature. This is a lightweight object that can be stored relatively conveniently.
