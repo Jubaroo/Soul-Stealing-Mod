@@ -11,14 +11,14 @@
 
 **New Item: Eternal Reservoir**
 
-The eternal reservoir is created using the Pottery skill. Start with a star diamond and pile of dirt, then add the following resources:
-99 dirt
-200 pottery bricks
-50 peat
-50 zinc lump
-50 chaos crystals
-20 hearts
-5 sapphires, rubies, emeralds, opals, and diamonds
+- The eternal reservoir is created using the Pottery skill. Start with a star diamond and pile of dirt, then add the following resources:
+1. 99 dirt
+2. 200 pottery bricks
+3. 50 peat
+4. 50 zinc lump
+5. 50 chaos crystals
+6. 20 hearts
+7. 5 sapphires, rubies, emeralds, opals, and diamonds
 
 - Once created, you can activate souls and feed them to the device. There is currently an action to give you a rough idea of how much "soul power" the device has.
 - When fueled, the eternal reservoir automatically feeds nearby branded carnivores. This means you will not need to place meat underneath the creatures, and instead just feed the device souls.
