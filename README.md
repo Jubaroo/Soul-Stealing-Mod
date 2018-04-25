@@ -1,5 +1,5 @@
 # Soul-Stealing-Mod
-created by: **Sindusk
+created by: **[Sindusk](https://github.com/Sindusk)**
 
 **New System - Soulstealing**
 
