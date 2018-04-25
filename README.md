@@ -1,14 +1,16 @@
 # Soul-Stealing-Mod
 
-*New System - Soulstealing*
-  You now have a choice between butcher/bury and soulstealing defeated creatures.
+**New System - Soulstealing**
+
+  *You now have a choice between butcher/bury and soulstealing defeated creatures.
   Soulstealing works by using a sacrificial knife on a corpse and selecting "Soulsteal" - this will perform an action much like butchering.
   After the soulsteal, the corpse is removed completely, meaning no need to bury. Butchered corpses cannot have their souls stolen.
   If successful, the soulsteal will give you the soul of the creature. This is a lightweight object that can be stored relatively conveniently.
   This makes soulstealing an "on-the-go" alternative to butchering. Stealing souls does not create high-weight objects out of corpses to lug around, as well as cleaning the corpse in a single action.
   Your ability to obtain a soul, as well as the quality of the soul, is based on your Stealing skill and the combat rating of the creature. Higher combat rating creatures will have souls more easily stolen.
 
-*New Item: Eternal Reservoir*
+**New Item: Eternal Reservoir**
+
 The eternal reservoir is created using the Pottery skill. Start with a star diamond and pile of dirt, then add the following resources:
 99 dirt
 200 pottery bricks
